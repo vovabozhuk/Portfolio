@@ -13,9 +13,14 @@ Hi,My name is Volodymyr,i am 19 years old.I am a student in WSB.This is my portf
 # Certificates
 Cisco IT Essentials:PC Hardware and Software
 # Languages
-English - B1
-Polish - B1
-Ukranian - Native
-Russian - C1(Trying to forget)
+- English - B1
+- Polish - B1
+- Ukranian - Native
+= Russian - C1(Trying to forget)
+# Hobbies
+ - Football
+ - Games
+ - Films
+ - Music
 # Projects
 -[Football testing](https://github.com/vovabozhuk/Homework-QA)
