@@ -16,7 +16,7 @@ Cisco IT Essentials:PC Hardware and Software
 - English - B1
 - Polish - B1
 - Ukranian - Native
-= Russian - C1(Trying to forget)
+- Russian - C1(Trying to forget)
 # Hobbies
  - Football
  - Games
